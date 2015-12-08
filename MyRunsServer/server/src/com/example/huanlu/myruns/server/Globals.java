@@ -12,6 +12,6 @@ public class Globals {
             "Standing", "Cycling", "Hiking", "Downhill Skiing",
             "Cross-Country Skiing", "Snowboarding", "Skating", "Swimming",
             "Mountain Biking", "Wheelchair", "Elliptical", "Other"};
-    public static final String[] AUTOMATIC_ACTIVITY_TYPES = {"Standing", "Walking", 
-														 	 "Running", "Unknown"};
+    public static final String[] AUTOMATIC_ACTIVITY_TYPES = 
+    		{"Standing", "Walking", "Running", "Unknown"};
 }
