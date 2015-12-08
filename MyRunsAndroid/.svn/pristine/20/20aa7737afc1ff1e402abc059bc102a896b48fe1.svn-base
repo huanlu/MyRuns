@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/huanlu/AndroidStudioProjects/MyRuns6/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/huanlu/AndroidStudioProjects/MyRuns6/app/build/intermediates/pre-dexed/debug/classes-581bc0af5d3c360f5833856534cb025de18e6cb5.jar" />
+    </item>
+    <item
+        jar="/Users/huanlu/AndroidStudioProjects/MyRuns6/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/huanlu/AndroidStudioProjects/MyRuns6/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-aec6a8f6b20cc289e47b4a133198f02d182e1b5b.jar" />
+    </item>
+    <item
+        jar="/Users/huanlu/AndroidStudioProjects/MyRuns6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/huanlu/AndroidStudioProjects/MyRuns6/app/build/intermediates/pre-dexed/debug/classes-3c38959362ec45db987322c8d3e4de57625d8dab.jar" />
+    </item>
+    <item
+        jar="/Users/huanlu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/huanlu/AndroidStudioProjects/MyRuns6/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-69dc757b30f75b4a49ae06aee7710fae7397774c.jar" />
+    </item>
+    <item
+        jar="/Users/huanlu/AndroidStudioProjects/MyRuns6/app/libs/weka.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1d553332d3346a8efe1d52000973115cc5ef975d">
+        <dex dex="/Users/huanlu/AndroidStudioProjects/MyRuns6/app/build/intermediates/pre-dexed/debug/weka-df0dc672d063e24acce95d3dbace124bdd95feff.jar" />
+    </item>
+    <item
+        jar="/Users/huanlu/AndroidStudioProjects/MyRuns6/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/huanlu/AndroidStudioProjects/MyRuns6/app/build/intermediates/pre-dexed/debug/classes-d40d60d78c6ad9eb345dcb1a6769b734e3757785.jar" />
+    </item>
+    <item
+        jar="/Users/huanlu/AndroidStudioProjects/MyRuns6/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/huanlu/AndroidStudioProjects/MyRuns6/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-59753dd15c2a1a708f86e1747ace8afaef0f2522.jar" />
+    </item>
+    <item
+        jar="/Users/huanlu/AndroidStudioProjects/MyRuns6/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/huanlu/AndroidStudioProjects/MyRuns6/app/build/intermediates/pre-dexed/debug/classes-4579fb8df31bfd9c8fbd013fa870b55e08ec9e5d.jar" />
+    </item>
+
+</items>

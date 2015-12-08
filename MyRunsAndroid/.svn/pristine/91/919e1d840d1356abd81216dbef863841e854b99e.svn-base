@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyRuns6</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ui_profile_photo_content_description">Your profile photo:</string>
+    <string name="ui_profile_name_title">Name:</string>
+    <string name="ui_profile_name_hint">Your name</string>
+    <string name="ui_profile_email_title">Email:</string>
+    <string name="ui_profile_email_hint">Your email</string>
+    <string name="ui_profile_phone_title">Phone:</string>
+    <string name="ui_profile_phone_hint">Your phone</string>
+    <string name="ui_profile_gender_title">Gender:</string>
+    <string name="ui_profile_gender_female">Female</string>
+    <string name="ui_profile_gender_male">Male</string>
+    <string name="ui_profile_class_title">Class:</string>
+    <string name="ui_profile_class_hint">e.g., 2012</string>
+    <string name="ui_profile_major_title">Major:</string>
+    <string name="ui_profile_major_hint">Your major here</string>
+    <string name="ui_button_change_photo">CHANGE</string>
+    <string name="ui_button_save">SAVE</string>
+    <string name="ui_button_cancel">CANCEL</string>
+    <string name="ui_profile_photo_title">Profile photo:</string>
+    <string name="ui_button_change">CHANGE</string>
+    <string name="cancel_message">Canceled!</string>
+    <string name="save_message">Saved!</string>
+    <string name="preference_name">my_shared_preferences</string>
+    <string name="preference_key_profile_name">profile_name</string>
+    <string name="preference_key_profile_email">profile_email</string>
+    <string name="preference_key_profile_phone">profile_phone</string>
+    <string name="preference_key_profile_gender">profile_gender</string>
+    <string name="preference_key_profile_class">profile_class</string>
+    <string name="preference_key_profile_major">profile_major</string>
+    <string name="profile_photo_file_name">profile_photo.png</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_sliding_tab_layout">SlidingTabLayout</string>
+    <string name="title_activity_sliding_tab_strip">SlidingTabStrip</string>
+    <string name="title_activity_action_tabs_view_pager_adapter">ActionTabsViewPagerAdapter</string>
+    <string name="title_activity_start_fragment">StartFragment</string>
+    <string name="title_activity_history_fragment">HistoryFragment</string>
+    <string name="title_activity_settings_fragment">SettingsFragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ui_start_input_type_title">Input Type:</string>
+    <string name="ui_settings_account_preferences_title">Account Preferences</string>
+    <string name="ui_settings_user_profile_title">User Profile</string>
+    <string name="ui_settings_user_profile_summary">Names, Emails, Class, etc</string>
+    <string name="ui_settings_privacy_setting_title">Privacy Setting</string>
+    <string name="ui_settings_privacy_setting_summary">Posting your records anonymously</string>
+    <string name="ui_settings_additional_settings_title">Additional settings</string>
+    <string name="ui_settings_unit_preference_title">Unit Preference</string>
+    <string name="ui_settings_unit_preference_summary">Select the units in which you would like to see distance values</string>
+
+    <string-array name="ui_settings_unit_preference_entries">
+        <item>Metric(Kilometers)</item>
+        <item>Imperial(Miles)</item>
+    </string-array>
+    <string-array name="ui_settings_unit_preference_entry_values">
+        <item>Kilometers</item>
+        <item>Miles</item>
+    </string-array>
+
+    <string name="dialog_title_settings_unit_preference">Unit Preference</string>
+    <string name="ui_settings_comment_title">Comment</string>
+    <string name="ui_settings_comment_summary">Any suggestion to this course?</string>
+    <string name="dialog_title_settings_comment">Comment</string>
+    <string name="ui_settings_misc_title">Misc.</string>
+    <string name="ui_settings_class_homepage_title">Class homepage</string>
+    <string name="ui_settings_class_homepage_address">cs.dartmouth.edu/~campbell/cs65/cs65.html</string>
+    <string name="ui_start_button_start">START</string>
+    <string name="ui_start_button_sync">SYNC</string>
+    <string name="ui_button_manual_save">SAVE</string>
+    <string name="ui_button_manual_cancel">CANCEL</string>
+
+    <string-array name="ui_start_input_type_spinner_entries">
+        <item>Manual Entry</item>
+        <item>GPS</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="ui_start_activity_type_spinner_entries">
+        <item>Running</item>
+        <item>Walking</item>
+        <item>Standing</item>
+        <item>Cycling</item>
+        <item>Hiking</item>
+        <item>Downhill Skiing</item>
+        <item>Cross-Country Skiing</item>
+        <item>Snowboarding</item>
+        <item>Skating</item>
+        <item>Swimming</item>
+        <item>Mountain Biking</item>
+        <item>Wheelchair</item>
+        <item>Elliptical</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="list_view_manual_entries">
+        <item>Date</item>
+        <item>Time</item>
+        <item>Duration</item>
+        <item>Distance</item>
+        <item>Calories</item>
+        <item>Heart Rate</item>
+        <item>Comment</item>
+    </string-array>
+
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="ui_profile_photo_picker_title">"Select profile image"</string>
+
+    <string-array name="ui_profile_photo_picker_items">
+        <item>Take picture from camera</item>
+        <item>Select from gallery</item>
+    </string-array>
+
+    <string name="ui_start_dialog_duration">Duration(minutes):</string>
+    <string name="ui_start_dialog_distance">Distance(miles):</string>
+    <string name="ui_start_dialog_calories">Calories:</string>
+    <string name="ui_start_dialog_heart_rate">Average Heart Rate(BPM):</string>
+    <string name="ui_start_dialog_comment">Comment:</string>
+    <string name="ui_start_dialog_comment_hint">How did it go? Enter Notes here.</string>
+    <string name="dialog_fragment_tag_photo_picker">dialog_fragment_tag_photo_picker</string>
+    <string name="dialog_fragment_tag_duration">dialog_fragment_tag_duration</string>
+    <string name="dialog_fragment_tag_distance">dialog_fragment_tag_distance</string>
+    <string name="dialog_fragment_tag_calories">dialog_fragment_tag_calories</string>
+    <string name="dialog_fragment_tag_heart_rate">dialog_fragment_tag_heart_rate</string>
+    <string name="dialog_fragment_tag_comment">dialog_fragment_tag_comment</string>
+    <string name="title_activity_map">Map</string>
+    <string name="ui_map_button_save">SAVE</string>
+    <string name="ui_map_button_cancel">CANCEL</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_display_entry">DisplayEntryActivity</string>
+
+    <string name="ui_display_entry_activity_type_title">Activity type</string>
+    <string name="ui_display_entry_date_and_time_title">Date and time</string>
+    <string name="ui_display_entry_duration_title">Duration</string>
+    <string name="ui_display_entry_distance_title">Distance</string>
+
+    <string name="ui_display_entry_delete">DELETE</string>
+    <string name="tracking_service_started">Recording your path now</string>
+    <string name="tracking_service_label">MyRuns4</string>
+
+    <string name="server_addr">http://myruns-huanlu.appspot.com</string>
+    <string name="msg_string_json">msg_string_json</string>
+
+</resources>

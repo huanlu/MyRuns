@@ -1,0 +1,30 @@
+package com.example.huanlu.myruns;
+
+import android.os.Bundle;
+import android.preference.PreferenceFragment;
+
+public class SettingsFragment extends PreferenceFragment {
+    private static String TAG = "SettingsFragment: ";
+
+
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+
+        // Load the preferences from an XML resource
+        addPreferencesFromResource(R.xml.preferences);
+    }
+
+    /*@Override
+    public void onResume() {
+        // TODO Auto-generated method stub
+        super.onResume();
+        //Toast.makeText(this, "onResume", Toast.LENGTH_LONG).show();
+        SharedPreferences myPreference= PreferenceManager.getDefaultSharedPreferences(getActivity());
+        String myListPreference = myPreference.getString("list_preference", "Miles");
+        Log.d(TAG, "myListPreference = " + myListPreference);
+        if(myListPreference.equals(STRING_UNIT_PREFERENCE_KILOMETERS))
+            HistoryFragment.unit_preference = HistoryFragment.UNIT_PREFERENCE_KILOMETERS;
+        else HistoryFragment.unit_preference = HistoryFragment.UNIT_PREFERENCE_MILES;
+    }*/
+}
