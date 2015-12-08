@@ -35,7 +35,6 @@ public class DeleteServlet extends HttpServlet {
 			ExerciseEntryDatastore.deleteAll();
 		} else {
 			ExerciseEntryDatastore.delete(Long.parseLong(id));
-			
 			getServletContext().getRequestDispatcher("/sendmsg.do").forward(req, resp);
 		}
 	}

@@ -27,13 +27,12 @@ public class PostServlet extends HttpServlet {
 		try {
 			JSONObject json = new JSONObject(msg);
 			mLogger.log(Level.INFO, "json_string = " + json.toString());
-			
 			ExerciseEntry entry = new ExerciseEntry(json);
 			//mLogger.log(Level.INFO, "input type = " + entry.mInputType);
 			ExerciseEntryDatastore.add(entry);
-        } catch (JSONException e) {
-            e.printStackTrace();
-        }
+		} catch (JSONException e) {
+			e.printStackTrace();
+		}
 	}
 
 	public void doGet(HttpServletRequest req, HttpServletResponse resp)
