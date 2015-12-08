@@ -5,16 +5,14 @@ import java.util.Random;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-//import com.example.huanlu.myruns.server.PostServlet;
 import com.google.appengine.labs.repackaged.org.json.JSONException;
 import com.google.appengine.labs.repackaged.org.json.JSONObject;
 
 public class ExerciseEntry {
-	private static final Logger mLogger = Logger
+    private static final Logger mLogger = Logger
 			.getLogger(ExerciseEntry.class.getName());
-    //private static final String TAG = "ExerciseEntryEntity: ";
 	
-	public static final String KEY_ID = "id";
+    public static final String KEY_ID = "id";
     public static final String KEY_INPUT_TYPE = "mInputType";
     public static final String KEY_ACTIVITY_TYPE = "mActivityType";
     public static final String KEY_DATE_TIME = "mDateTime";
